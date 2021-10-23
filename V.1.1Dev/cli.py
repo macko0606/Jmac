@@ -1,0 +1,1 @@
+pyinstaller -F --add-data '/txt/credentals.txt:txt' -n 'IntelligentAlgorithms' GUI.py
